@@ -1,4 +1,6 @@
 npm-debug.log
 *.DS_Store
 *.npmignore
+.idea
+.idea/*
 node_modules
