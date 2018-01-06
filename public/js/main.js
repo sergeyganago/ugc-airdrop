@@ -81,7 +81,7 @@ $('#subscription-form').submit(function(e) {
             if(result.data && result.data.addr){
                 swal("恭喜！", "90%几率会获得赠币！","success");
             }else{
-                swal("", "虽然赠币的几率比较低<br>但是 恭喜您已经上车","success")
+                swal("", "虽然您被赠币的几率比较低<br>但是恭喜您已经在车上了(*￣︶￣)","success")
             }
         }
     });
